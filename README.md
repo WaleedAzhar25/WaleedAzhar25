@@ -6,6 +6,21 @@
   </a>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedazhar25&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedazhar25&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedazhar25&theme=dark" alt="GitHub Streak Stats">
+</p>
+
+
 <p align="center">
   <a href="https://twitter.com/waleedazhar25" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Twitter-%40waleedazhar25-00acee?style=flat&logo=twitter&logoColor=white&color=1a1a1a" alt="Twitter">
@@ -27,16 +42,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedazhar25&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleedazhar25&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedazhar25&theme=dark" alt="GitHub Streak Stats">
 </p>
