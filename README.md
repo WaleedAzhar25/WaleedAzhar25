@@ -1,5 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Muhammad Waleed Azhar</h1>
-<h3 align="center">A passionate Full Stack Flutter Developer</h3>
+<h1 align="center">Hi there! 👋, I'm Muhammad Waleed Azhar, A Full Stack Flutter Developer</h1>
 
 <p align="center">
   <a href="mailto:waleedazhar903@gmail.com" style="text-decoration:none">
@@ -7,7 +6,6 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/waleedazhar25" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Twitter-%40waleedazhar25-00acee?style=flat&logo=twitter&logoColor=white&color=1a1a1a" alt="Twitter">
@@ -17,7 +15,6 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
