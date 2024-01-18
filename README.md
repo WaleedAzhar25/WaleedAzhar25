@@ -1,12 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Muhammad Waleed Azhar, A Full Stack Flutter Developer</h1>
 
-<p align="center">
-  <a href="mailto:waleedazhar903@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-waleedazhar903%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
-  </a>
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedazhar25&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
@@ -22,6 +15,9 @@
 
 
 <p align="center">
+   <a href="mailto:waleedazhar903@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-waleedazhar903%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
+  </a>
   <a href="https://twitter.com/waleedazhar25" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Twitter-%40waleedazhar25-00acee?style=flat&logo=twitter&logoColor=white&color=1a1a1a" alt="Twitter">
   </a>
