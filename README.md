@@ -1,6 +1,5 @@
 <h3 align="center">Hi, I'm Muhammad Waleed Azhar, A Full Stack Developer</h3>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedazhar25&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages">
 </p>
