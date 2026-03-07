@@ -6,10 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedazhar25&theme=dark" alt="GitHub Streak Stats">
-</p>
-
 
 <p align="center">
    <a href="mailto:waleedazhar903@gmail.com" style="text-decoration:none">
