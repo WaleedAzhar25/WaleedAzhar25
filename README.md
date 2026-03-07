@@ -6,7 +6,6 @@
 </p>
 
 
-
 <p align="center">
    <a href="mailto:waleedazhar903@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Email-waleedazhar903%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
